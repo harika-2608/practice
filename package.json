@@ -1,0 +1,28 @@
+{
+  "name": "bpl_textfield",
+  "version": "1.0.2",
+  "description": "textfield",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harika-2608/practice.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "someone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harika-2608/practice/issues"
+  },
+  "homepage": "https://github.com/harika-2608/practice#readme",
+  "devDependencies": {
+    "@babel/preset-react": "^7.24.1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4"
+  }
+}
